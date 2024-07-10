@@ -25,4 +25,4 @@ full_list(n, lst)
 
 print(eng_katta_farq_topish(lst))
 
-print("bek")
+print("bek ")
